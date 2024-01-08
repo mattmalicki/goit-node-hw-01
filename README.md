@@ -65,7 +65,7 @@ node index.js --action remove --id <id>
 Output:
 ![remove]
 
-[list]: https://ibb.co/g315jfD
+[list]: https://i.ibb.co/c15GgZN/action-list.png
 [get]: https://i.ibb.co/ZLQKb2x/action-get.png
-[add]: https://ibb.co/4RhCDJM
-[remove]: https://ibb.co/gDP6K2M
+[add]: https://i.ibb.co/23GRL5P/action-add.png
+[remove]: https://i.ibb.co/9qVG5D9/action-remove.png
