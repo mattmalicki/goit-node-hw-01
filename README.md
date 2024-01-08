@@ -66,6 +66,6 @@ Output:
 ![remove]
 
 [list]: https://ibb.co/g315jfD
-[get]: https://ibb.co/f13tTDH
+[get]: https://i.ibb.co/ZLQKb2x/action-get.png
 [add]: https://ibb.co/4RhCDJM
 [remove]: https://ibb.co/gDP6K2M
