@@ -1,0 +1,21 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "Managing contacts. First homework in GoIT course in Node.js module.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "npx nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mattmalicki",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^5.0.4"
+  }
+}
